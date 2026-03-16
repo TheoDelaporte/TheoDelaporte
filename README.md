@@ -2,14 +2,111 @@
 
 Bienvenue sur ma page ! Je suis Théo. Vous pouvez retrouver ici mes différents projets et contributions.
 
-### 💻 Les langages et outils que j'utilise :
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-
 ### 🔗 Mes liens :
 
 * [Mon profil LinkedIn](insérez_votre_lien_ici)
 * [Mon Portfolio](insérez_votre_lien_ici)
+
+<!--💻Languages and Tools🛠️-->
+<details> 
+  <summary><h2 align='center'><a href="https://github.com/TheoDelaporte">
+<img src="https://github.com/user-attachments/assets/0cefad05-58a9-4aa0-a070-f75a0c9b0353" height="32px"></a> Languages and Tech Stack</h2>
+  
+  <a href="https://github.com/TheoDelaporte">
+  </a>
+ </summary> 
+ <div style="display: flex; align-items: flex-start; align: center">
+
+<table width="100">
+    <h3>👨‍💻 Programming and Markup Languages</h3>
+    <tr>
+        <td align='center' width="190">
+            <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="PHP">
+        </td>
+        <td align='center' width="190">
+            <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="80" height="75">
+        </td>
+        <td align='center' width="190">
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="90" height="85" />
+        </td>
+        <td align='center' width="190">
+            <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="90" height="85" />
+        </td>
+        <td align='center' width="190">
+            <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="70" height="65">
+        </td>
+    </tr>
+    <tr>
+        <td align='center' width="190">
+            <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg" alt="Dart" width="120">
+        </td>
+        <td align='center' width="190">
+            <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="HTML5" width="120"/>
+        </td>
+        <td align='center' width="190">
+            <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="CSS3" width="120"/>
+        </td>
+        <td align='center' width="190"></td>
+        <td align='center' width="190"></td>
+    </tr>
+</table>
+
+<table width="100">
+    <h3>🧰 Frameworks and Libraries</h3>
+    <tr>
+        <td align='center' width="190">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cakephp/cakephp-original.svg" alt="CakePHP" width="70">
+        </td>
+        <td align='center' width="190">
+            <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="Laravel" width="120">
+        </td>
+        <td align='center' width="190">
+            <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="80" height="85">
+        </td>
+        <td align='center' width="190">
+            <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="VueJS" width="100">
+        </td>
+        <td align='center' width="190">
+            <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-ar21.svg" alt="NuxtJS" width="120">
+        </td>
+    </tr>
+    <tr>
+        <td align='center' width="190">
+            <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="NodeJS" width="120">
+        </td>
+        <td align='center' width="190">
+            <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="Flutter" width="120">
+        </td>
+        <td align='center' width="190">
+            <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" alt="Tailwind CSS" width="120">
+        </td>
+        <td align='center' width="190">
+            <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="Bootstrap" width="120">
+        </td>
+        <td align='center' width="190"></td>
+    </tr>
+</table>
+
+<table width="100">
+    <h3>🗄️ Databases and Version Control</h3>
+    <tr>
+        <td align='center' width="190">
+            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="90" height="85"/>
+        </td>
+        <td align='center' width="190">
+            <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" width="120"/>
+        </td>
+        <td align='center' width="190">
+            <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="SQLite" width="120">
+        </td>
+        <td align='center' width="190">
+            <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="Oracle" width="120">
+        </td>
+        <td align='center' width="190">
+            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git" width="120">
+        </td>
+    </tr>
+</table>
+
+</div>
+</details>
