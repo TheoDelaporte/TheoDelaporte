@@ -1,14 +1,12 @@
 # Hey! Nice to see you 👋
 
-Bienvenue sur ma page ! Je suis Théo. Vous pouvez retrouver ici mes différents projets et contributions.
+Welcome to my GitHub profile! I'm Théo Delaporte, a passionate **Full Stack Developer** and **IT Educator** based in Montpellier, France.
 
-### 🔗 Mes liens :
+💻 **As a Developer:** I specialize in designing and building robust, custom web and mobile applications. Currently working as a Freelance Developer under *CodeHorizon*, I handle full-cycle project management, from client needs analysis to deployment and infrastructure supervision. My industry experience includes creating tailored business solutions using Agile methodologies.
 
-* [Mon profil LinkedIn](insérez_votre_lien_ici)
-* [Mon Portfolio](insérez_votre_lien_ici)
+👨‍🏫 **As an Educator:** I strongly believe in sharing knowledge and shaping the next generation of developers. I teach at higher education institutions. I guide students through a wide range of topics such as web/mobile development (React.js, Flutter, Java, C#), databases, DevOps (Docker, Linux), and cybersecurity. I also love mentoring students during Game Jams and technical projects!
 
-<!--💻Languages and Tools🛠️-->
-<details> 
+<details open> 
   <summary><h2 align='center'><a href="https://github.com/TheoDelaporte">
 <img src="https://github.com/user-attachments/assets/0cefad05-58a9-4aa0-a070-f75a0c9b0353" height="32px"></a> Languages and Tech Stack</h2>
   
